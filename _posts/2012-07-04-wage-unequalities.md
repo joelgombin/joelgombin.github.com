@@ -11,7 +11,9 @@ The idea for this graph came from a R user group that was held in INSEE. The spe
 
 The data used is the ['Enquête Emploi' survey by INSEE, 2009 version](http://www.insee.fr/fr/themes/detail.asp?ref_id=fd-eec09). The variables of interest are quite simple really: gender, age and 'monthly net wage, adjusted for missing answers' (SALRED variable). 
 
+The data used and the R code is in a [github repository](https://github.com/joelgombin/Inegalites).
+
 So, here is the graph:
 
-![graphique](https://github.com/joelgombin/Inegalites/raw/master/Graphique.png)
+![graphique](/assets/graphe_petit.png)
 
