@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Wage unequalities"
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
