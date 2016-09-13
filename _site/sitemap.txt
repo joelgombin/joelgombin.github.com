@@ -1,0 +1,12 @@
+
+http://joelgombin.github.com/archive.html
+http://joelgombin.github.com/atom.xml
+http://joelgombin.github.com/categories.html
+http://joelgombin.github.com/index.html
+http://joelgombin.github.com/new-page.html
+http://joelgombin.github.com/pages.html
+http://joelgombin.github.com/sitemap.txt
+http://joelgombin.github.com/tags.html
+
+http://joelgombin.github.com/Sociology/2012/07/04/wage-unequalities
+http://joelgombin.github.com/Bienvenue/2012/07/04/hello-world
